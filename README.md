@@ -21,7 +21,7 @@ The included replays is downloaded from the last final tourament (`2020-10-30-13
 
 The result of top 10 are as follow where our team come 1st place with a Reinforcement Learning agent.
 
-![](./assets/Screenshot from 2020-11-08 22-17-14.png)
+![](./assets/top10.png)
 
 For a full list of team, archieve results available at `/results/results_2020-10-30-13-08-a`
 
