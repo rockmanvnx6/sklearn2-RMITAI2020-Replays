@@ -23,7 +23,7 @@ The result of top 10 are as follow where our team come 1st place with a Reinforc
 
 ![](./assets/top10.png)
 
-For a full list of team, archieve results available at `/results/results_2020-10-30-13-08-a`
+For a full list of team, archieve results available at `/results/results_2020-10-30-13-08-a`: https://auspham.dev/sklearn2-RMITAI2020-Replays/results/results_2020-10-30-13-08-a
 
 ### Requirements
 
