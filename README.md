@@ -1,5 +1,7 @@
 # Sklearn2 Pacman replay - RMITAI2020
 
+Presentation: https://www.youtube.com/watch?v=pSIqh01J5iM&ab_channel=DavidV
+
 ---
 
 **NOTE:** This repository **only contains replays** of `sklearn2` team - RMITAI2020. Presentation video might be included later after marking results.
